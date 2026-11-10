@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafael-act" alt="rafael-act" /> </p>
 
-- 🔭 I’m currently working on [Engdb](https://www.engdb.com.br/)💻
+- 🔭 I’m currently looking for job💻
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate projects
 - 💬 Ask me about Web dev related Stuff
